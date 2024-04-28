@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491559516994",
+    "project_id": "puskesmas-cisandea",
+    "storage_bucket": "puskesmas-cisandea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491559516994:android:22b3c4dee7b385927be6db",
+        "android_client_info": {
+          "package_name": "com.example.puskesmas_cisadea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAntSsBNvJNWKJnGPrtwusXeMOt--i4aZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
